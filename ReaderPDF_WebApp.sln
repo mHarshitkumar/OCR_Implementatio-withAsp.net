@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0D10A8E1-8BA0-449A-9A10-FBD973D2F0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_READER1_WEBAPP", "PDF_READER1_WEBAPP\PDF_READER1_WEBAPP.csproj", "{BC1C19C3-9BD2-4C6A-964B-EC1275A32EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D10A8E1-8BA0-449A-9A10-FBD973D2F0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D10A8E1-8BA0-449A-9A10-FBD973D2F0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D10A8E1-8BA0-449A-9A10-FBD973D2F0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D10A8E1-8BA0-449A-9A10-FBD973D2F0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1C19C3-9BD2-4C6A-964B-EC1275A32EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1C19C3-9BD2-4C6A-964B-EC1275A32EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1C19C3-9BD2-4C6A-964B-EC1275A32EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1C19C3-9BD2-4C6A-964B-EC1275A32EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E80566D-E04C-435A-9D82-336B059C59AF}
+	EndGlobalSection
+EndGlobal
